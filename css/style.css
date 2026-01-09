@@ -1,0 +1,13 @@
+.link {
+    
+  color: #2E2F42;
+}
+.page-title {
+    font-family: "Roboto", sans-serif;
+    background-color: #2E2F42;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
