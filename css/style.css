@@ -1,3 +1,8 @@
+.main {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+}
+
 .click {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -16,11 +21,10 @@
 
 
 .pages .chapter {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-style: Medium;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1,5;
     letter-spacing: 2%;
     text-decoration: none;
   color: #2E2F42;
@@ -36,11 +40,10 @@
 
 
 .contacts .send {
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: regular;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1,5;
     letter-spacing: 2%;
     text-decoration: none;
     color: #434455;
@@ -53,15 +56,28 @@
     text-decoration: underline;
 }
 .title {
-    font-family: "Roboto", sans-serif;
     background-color: #2E2F42;
-
-}
-.page-title {
-    font-family: "Roboto", sans-serif;
-    color: #FFFFFF;
     text-align: center;
 }
+.page-title {
+    color: #FFFFFF;
+    }
+
+.push {
+        color: #FFFFFF;
+        background-color: #4D5AE5;
+        cursor: pointer;
+} 
+
+.people {
+        text-align: center;
+        font-weight: 700;
+        font-style: bold;
+        font-size: 36px;
+        background-color: #F4F4FD;
+        line-height: 40px;
+}
+
 
 
 ul {
