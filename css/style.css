@@ -68,7 +68,9 @@
         background-color: #4D5AE5;
         cursor: pointer;
 } 
-
+#team {
+    background-color: #F4F4FD;
+}
 .people {
         text-align: center;
         font-weight: 700;
@@ -78,7 +80,68 @@
         line-height: 40px;
 }
 
+.people-list {
+    background-color: #FFFFFF;
+}
 
+.people-title {
+    color: #2E2F42;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    text-align: center;
+}
+
+.people-job {
+    color: #434455
+    font-style: Regular;
+    font-size: 16px;
+    text-align: center;
+}
+
+.portfolio-title {
+    text-align: center;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.portfolio-list {
+    color: #2E2F42;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+}
+
+.portfolio-text {
+    color: #434455 font-style: Regular;
+    font-size: 16px;
+}
+
+.end-title {
+    background-color: #2E2F42;
+}
+
+.end-title-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    text-decoration: none;
+}
+
+.web {
+    color: #F4F4FD;
+}
+
+.end-title-text {
+    color:#F4F4FD
+}
 
 ul {
     list-style-type: none;
